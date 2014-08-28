@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 
-# 2104 Ηλιάδης Ηλίας
+# Copyright 2014 Ηλιάδης Ηλίας
 """
 Read Calc's spreadsheets.
 
